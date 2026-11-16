@@ -1,4 +1,4 @@
-# Scaler - Learner Profiling & Clustering Case Study
+# Scaler - Customer-Segmentation-Unsupervised-Clustering Case Study
 ### Data Cleaning & EDA | Manual Heuristic Clustering | K-Means & Hierarchical Clustering | Business Insights & Strategy
 ---
 
